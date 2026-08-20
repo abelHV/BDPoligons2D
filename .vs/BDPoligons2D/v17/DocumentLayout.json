@@ -1,0 +1,410 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\bdpoligons2d\\classes\\clquadrat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|solutionrelative:bdpoligons2d\\classes\\clquadrat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|c:\\users\\abel\\desktop\\dam2-pendent\\dam2-acces-a-dades\\herencia i poliformisme\\bdpoligons2d\\bdpoligons2d\\classes\\clfitxerconnexiobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|solutionrelative:bdpoligons2d\\classes\\clfitxerconnexiobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|c:\\users\\abel\\desktop\\dam2-pendent\\dam2-acces-a-dades\\herencia i poliformisme\\bdpoligons2d\\bdpoligons2d\\classes\\cltrianglerectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|solutionrelative:bdpoligons2d\\classes\\cltrianglerectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\bdpoligons2d\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|solutionrelative:bdpoligons2d\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\bdpoligons2d\\classes\\clpoligon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|solutionrelative:bdpoligons2d\\classes\\clpoligon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\bdpoligons2d\\classes\\clcercle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|solutionrelative:bdpoligons2d\\classes\\clcercle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\bdpoligons2d\\classes\\cltriangleisosceles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|solutionrelative:bdpoligons2d\\classes\\cltriangleisosceles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\bdpoligons2d\\classes\\cloctogon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|solutionrelative:bdpoligons2d\\classes\\cloctogon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\bdpoligons2d\\classes\\classesbd\\clpoligonbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|solutionrelative:bdpoligons2d\\classes\\classesbd\\clpoligonbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\bdpoligons2d\\classes\\clrombe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|solutionrelative:bdpoligons2d\\classes\\clrombe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\bdpoligons2d\\classes\\classesbd\\clcerclebd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|solutionrelative:bdpoligons2d\\classes\\classesbd\\clcerclebd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\bdpoligons2d\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|solutionrelative:bdpoligons2d\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\bdpoligons2d\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|solutionrelative:bdpoligons2d\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\bdpoligons2d\\classes\\classesbd\\clellipsebd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|solutionrelative:bdpoligons2d\\classes\\classesbd\\clellipsebd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\bdpoligons2d\\classes\\classesbd\\clrectanglebd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|solutionrelative:bdpoligons2d\\classes\\classesbd\\clrectanglebd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abel\\AppData\\Local\\Temp\\.vsdbgsrc\\dacc51d6586cea655f2c452c7ab38616122fb25b63930d266fafd393504ace62\\ClBdMySQL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\bdpoligons2d\\classes\\classesbd\\cltrianglerectanglebd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|solutionrelative:bdpoligons2d\\classes\\classesbd\\cltrianglerectanglebd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\bdpoligons2d\\classes\\classesbd\\clpentagonbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|solutionrelative:bdpoligons2d\\classes\\classesbd\\clpentagonbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\bdpoligons2d\\classes\\classesbd\\cloctogonbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|solutionrelative:bdpoligons2d\\classes\\classesbd\\cloctogonbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\bdpoligons2d\\classes\\classesbd\\clhexagonbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|solutionrelative:bdpoligons2d\\classes\\classesbd\\clhexagonbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\bdpoligons2d\\classes\\classesbd\\clheptagonbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|solutionrelative:bdpoligons2d\\classes\\classesbd\\clheptagonbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\bdpoligons2d\\classes\\classesbd\\cltriangleisoscelesbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|solutionrelative:bdpoligons2d\\classes\\classesbd\\cltriangleisoscelesbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\bdpoligons2d\\classes\\classesbd\\cltriangleequilaterbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|solutionrelative:bdpoligons2d\\classes\\classesbd\\cltriangleequilaterbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\bdpoligons2d\\classes\\classesbd\\clrombebd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B189B029-04A6-4953-9104-DA1CCB7A3290}|BDPoligons2D\\BDPoligons2D.csproj|solutionrelative:bdpoligons2d\\classes\\classesbd\\clrombebd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClFitxerConnexioBD.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClFitxerConnexioBD.cs",
+              "RelativeDocumentMoniker": "BDPoligons2D\\CLASSES\\ClFitxerConnexioBD.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClFitxerConnexioBD.cs",
+              "RelativeToolTip": "BDPoligons2D\\CLASSES\\ClFitxerConnexioBD.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T16:13:23.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClQuadrat.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClQuadrat.cs",
+              "RelativeDocumentMoniker": "BDPoligons2D\\CLASSES\\ClQuadrat.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClQuadrat.cs",
+              "RelativeToolTip": "BDPoligons2D\\CLASSES\\ClQuadrat.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBUAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T13:50:35.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmMain.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\FrmMain.cs",
+              "RelativeDocumentMoniker": "BDPoligons2D\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\FrmMain.cs [Dise\u00F1o]",
+              "RelativeToolTip": "BDPoligons2D\\FrmMain.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T16:20:30.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\FrmMain.cs",
+              "RelativeDocumentMoniker": "BDPoligons2D\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\FrmMain.cs",
+              "RelativeToolTip": "BDPoligons2D\\FrmMain.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAEwKQCAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:20:37.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClPoligonBD.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClassesBD\\ClPoligonBD.cs",
+              "RelativeDocumentMoniker": "BDPoligons2D\\CLASSES\\ClassesBD\\ClPoligonBD.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClassesBD\\ClPoligonBD.cs",
+              "RelativeToolTip": "BDPoligons2D\\CLASSES\\ClassesBD\\ClPoligonBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T16:15:13.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClPoligon.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClPoligon.cs",
+              "RelativeDocumentMoniker": "BDPoligons2D\\CLASSES\\ClPoligon.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClPoligon.cs",
+              "RelativeToolTip": "BDPoligons2D\\CLASSES\\ClPoligon.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T15:08:27.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClCercle.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClCercle.cs",
+              "RelativeDocumentMoniker": "BDPoligons2D\\CLASSES\\ClCercle.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClCercle.cs",
+              "RelativeToolTip": "BDPoligons2D\\CLASSES\\ClCercle.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T15:21:40.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClOctogon.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClOctogon.cs",
+              "RelativeDocumentMoniker": "BDPoligons2D\\CLASSES\\ClOctogon.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClOctogon.cs",
+              "RelativeToolTip": "BDPoligons2D\\CLASSES\\ClOctogon.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wDQAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T17:13:47.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClTriangleRectangle.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClTriangleRectangle.cs",
+              "RelativeDocumentMoniker": "BDPoligons2D\\CLASSES\\ClTriangleRectangle.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClTriangleRectangle.cs",
+              "RelativeToolTip": "BDPoligons2D\\CLASSES\\ClTriangleRectangle.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA5wDMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T16:40:55.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClTriangleIsosceles.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClTriangleIsosceles.cs",
+              "RelativeDocumentMoniker": "BDPoligons2D\\CLASSES\\ClTriangleIsosceles.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClTriangleIsosceles.cs",
+              "RelativeToolTip": "BDPoligons2D\\CLASSES\\ClTriangleIsosceles.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T16:21:37.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClRombe.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClRombe.cs",
+              "RelativeDocumentMoniker": "BDPoligons2D\\CLASSES\\ClRombe.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClRombe.cs",
+              "RelativeToolTip": "BDPoligons2D\\CLASSES\\ClRombe.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T15:33:50.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClCercleBD.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClassesBD\\ClCercleBD.cs",
+              "RelativeDocumentMoniker": "BDPoligons2D\\CLASSES\\ClassesBD\\ClCercleBD.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClassesBD\\ClCercleBD.cs",
+              "RelativeToolTip": "BDPoligons2D\\CLASSES\\ClassesBD\\ClCercleBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T15:27:20.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\FrmMain.Designer.cs",
+              "RelativeDocumentMoniker": "BDPoligons2D\\FrmMain.Designer.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\FrmMain.Designer.cs",
+              "RelativeToolTip": "BDPoligons2D\\FrmMain.Designer.cs",
+              "ViewState": "AgIAAJsBAAAAAAAAAAAAwJsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T17:15:00.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClHeptagonBD.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClassesBD\\ClHeptagonBD.cs",
+              "RelativeDocumentMoniker": "BDPoligons2D\\CLASSES\\ClassesBD\\ClHeptagonBD.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClassesBD\\ClHeptagonBD.cs",
+              "RelativeToolTip": "BDPoligons2D\\CLASSES\\ClassesBD\\ClHeptagonBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T16:06:51.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClEllipseBD.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClassesBD\\ClEllipseBD.cs",
+              "RelativeDocumentMoniker": "BDPoligons2D\\CLASSES\\ClassesBD\\ClEllipseBD.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClassesBD\\ClEllipseBD.cs",
+              "RelativeToolTip": "BDPoligons2D\\CLASSES\\ClassesBD\\ClEllipseBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T15:30:48.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClTriangleRectangleBD.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClassesBD\\ClTriangleRectangleBD.cs",
+              "RelativeDocumentMoniker": "BDPoligons2D\\CLASSES\\ClassesBD\\ClTriangleRectangleBD.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClassesBD\\ClTriangleRectangleBD.cs",
+              "RelativeToolTip": "BDPoligons2D\\CLASSES\\ClassesBD\\ClTriangleRectangleBD.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T13:52:52.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClHexagonBD.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClassesBD\\ClHexagonBD.cs",
+              "RelativeDocumentMoniker": "BDPoligons2D\\CLASSES\\ClassesBD\\ClHexagonBD.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClassesBD\\ClHexagonBD.cs",
+              "RelativeToolTip": "BDPoligons2D\\CLASSES\\ClassesBD\\ClHexagonBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T16:06:59.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClOctogonBD.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClassesBD\\ClOctogonBD.cs",
+              "RelativeDocumentMoniker": "BDPoligons2D\\CLASSES\\ClassesBD\\ClOctogonBD.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClassesBD\\ClOctogonBD.cs",
+              "RelativeToolTip": "BDPoligons2D\\CLASSES\\ClassesBD\\ClOctogonBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T16:07:07.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClPentagonBD.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClassesBD\\ClPentagonBD.cs",
+              "RelativeDocumentMoniker": "BDPoligons2D\\CLASSES\\ClassesBD\\ClPentagonBD.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClassesBD\\ClPentagonBD.cs",
+              "RelativeToolTip": "BDPoligons2D\\CLASSES\\ClassesBD\\ClPentagonBD.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwCMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T17:15:26.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClRectangleBD.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClassesBD\\ClRectangleBD.cs",
+              "RelativeDocumentMoniker": "BDPoligons2D\\CLASSES\\ClassesBD\\ClRectangleBD.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClassesBD\\ClRectangleBD.cs",
+              "RelativeToolTip": "BDPoligons2D\\CLASSES\\ClassesBD\\ClRectangleBD.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T15:48:31.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClBdMySQL.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\AppData\\Local\\Temp\\.vsdbgsrc\\dacc51d6586cea655f2c452c7ab38616122fb25b63930d266fafd393504ace62\\ClBdMySQL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\dacc51d6586cea655f2c452c7ab38616122fb25b63930d266fafd393504ace62\\ClBdMySQL.cs",
+              "ToolTip": "C:\\Users\\Abel\\AppData\\Local\\Temp\\.vsdbgsrc\\dacc51d6586cea655f2c452c7ab38616122fb25b63930d266fafd393504ace62\\ClBdMySQL.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\dacc51d6586cea655f2c452c7ab38616122fb25b63930d266fafd393504ace62\\ClBdMySQL.cs [Solo lectura]",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAjwGAAAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T16:36:31.675Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClTriangleIsoscelesBD.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClassesBD\\ClTriangleIsoscelesBD.cs",
+              "RelativeDocumentMoniker": "BDPoligons2D\\CLASSES\\ClassesBD\\ClTriangleIsoscelesBD.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClassesBD\\ClTriangleIsoscelesBD.cs",
+              "RelativeToolTip": "BDPoligons2D\\CLASSES\\ClassesBD\\ClTriangleIsoscelesBD.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T16:27:55.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClTriangleEquilaterBD.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClassesBD\\ClTriangleEquilaterBD.cs",
+              "RelativeDocumentMoniker": "BDPoligons2D\\CLASSES\\ClassesBD\\ClTriangleEquilaterBD.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClassesBD\\ClTriangleEquilaterBD.cs",
+              "RelativeToolTip": "BDPoligons2D\\CLASSES\\ClassesBD\\ClTriangleEquilaterBD.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwCMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T16:26:38.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClRombeBD.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClassesBD\\ClRombeBD.cs",
+              "RelativeDocumentMoniker": "BDPoligons2D\\CLASSES\\ClassesBD\\ClRombeBD.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-ACCES-A-DADES\\HERENCIA I POLIFORMISME\\BDPoligons2D\\BDPoligons2D\\CLASSES\\ClassesBD\\ClRombeBD.cs",
+              "RelativeToolTip": "BDPoligons2D\\CLASSES\\ClassesBD\\ClRombeBD.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T16:07:45.472Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
